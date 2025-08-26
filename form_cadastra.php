@@ -1,5 +1,5 @@
 <?php 
-    include 'pedaco.php'
+    include 'pedaco.php';
 ?> 
 
     <div class="container">
